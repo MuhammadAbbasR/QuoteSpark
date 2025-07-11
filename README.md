@@ -16,5 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Splash Screen
+
 ![App Screenshot](https://github.com/MuhammadAbbasR/QuoteSpark/blob/04dc729cca0295ae457ef9779f9ab33db3787dca/Screenshot%20splash.PNG)
 
