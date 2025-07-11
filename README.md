@@ -19,3 +19,22 @@ Splash Screen
 
 ![App Screenshot](https://github.com/MuhammadAbbasR/QuoteSpark/blob/04dc729cca0295ae457ef9779f9ab33db3787dca/Screenshot%20splash.PNG)
 
+Screen 1
+
+![App Screenshot](https://github.com/MuhammadAbbasR/QuoteSpark/blob/2004dc7dcce4db8d878f00d4eeaf958189fe436d/Screenshot%20main%201.PNG)
+
+Screen 2
+
+![App Screenshot](https://github.com/MuhammadAbbasR/QuoteSpark/blob/2004dc7dcce4db8d878f00d4eeaf958189fe436d/Screenshot%20main%202.PNG)
+
+Favourite Screen 
+
+![App Screenshot](https://github.com/MuhammadAbbasR/QuoteSpark/blob/2004dc7dcce4db8d878f00d4eeaf958189fe436d/Screenshot%20favourite.PNG)
+
+
+
+
+
+
+
+
